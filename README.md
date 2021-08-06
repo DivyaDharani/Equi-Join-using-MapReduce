@@ -1,5 +1,9 @@
 # Equi Join using MapReduce - Java and Hadoop framework
 
+The code would take two inputs - 
+* HDFS location of the input file 
+* HDFS location of the file where the output should be stored
+
 **Input file format:**
 
 Table1Name, Table1JoinColumn, Table1Other Column1, Table1OtherColumn2, ……..
